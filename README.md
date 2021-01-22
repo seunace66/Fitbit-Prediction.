@@ -1,2 +1,2 @@
-# Fitbit-Calories-Burnt-Prediction.
+# Fitbit Prediction.
 Fitbit(Calories Burnt) Prediction.
